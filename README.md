@@ -83,4 +83,4 @@ The confusion matrix provides a detailed view of model performance, showing the 
 
 
 
-In this project, we used Logistic Regression to predict survival outcomes on the Titanic dataset. We demonstrated data preprocessing, exploratory data analysis, model training, and evaluation. The project showcases the application of logistic regression for binary classification tasks and how to interpret the model's coefficients and make predictions based on the model's output.
+## In this project, we used Logistic Regression to predict survival outcomes on the Titanic dataset. We demonstrated data preprocessing, exploratory data analysis, model training, and evaluation. The project showcases the application of logistic regression for binary classification tasks and how to interpret the model's coefficients and make predictions based on the model's output.
