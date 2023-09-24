@@ -22,7 +22,7 @@ We map the 'Sex' column to numerical values to convert it into a binary feature.
 We create a correlation heatmap to visualize the relationships between features. This heatmap provides insights into which features might be most relevant for predicting survival outcomes. \
 ![Heatmap](logr-heat.png)
 
-We create a boxplot to detect the minimum, maximum, median and mean of the ages of the passengers. Boxplots are also helpful in observing any potential outliers. \
+We create a boxplot to detect the minimum, maximum, median and mean of the fare prices of the tickets. Boxplots are also helpful in observing any potential outliers. \
 ![Boxplot](logr-box.png)
 
 We then create a barplot to analyse the count of the male versus female passengers who sailed the RMS Titanic. \
